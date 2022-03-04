@@ -1,0 +1,73 @@
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\system 3\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\bin\Debug\res.exe
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\bin\Debug\res.pdb
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\res.exe
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\res.pdb
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.home.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.accounts.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.spendds.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.employee.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.items.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Storage.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Company.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Sales_Point.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\system 3\Documents\Visual Studio 2010\Projects\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Aboutus.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\res.exe
+E:\res\WindowsFormsApplication2\obj\x86\Debug\res.pdb
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Aboutus.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Company.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.employee.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.items.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HOME.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.accounts.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Sales_Point.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.spendds.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Storage.resources
+E:\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\res.exe
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Aboutus.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Company.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.employee.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.items.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HOME.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.accounts.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Sales_Point.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.spendds.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Storage.resources
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\project\res\WindowsFormsApplication2\bin\Debug\res.exe
+E:\project\res\WindowsFormsApplication2\bin\Debug\res.pdb
+E:\project\res\WindowsFormsApplication2\obj\x86\Debug\res.pdb
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\res.exe
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\res.pdb
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Aboutus.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Company.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.employee.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.items.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HOME.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.accounts.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Sales_Point.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.spendds.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Storage.resources
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\bin\Debug\res.exe
+C:\Users\Shreya\Documents\res\WindowsFormsApplication2\bin\Debug\res.pdb
